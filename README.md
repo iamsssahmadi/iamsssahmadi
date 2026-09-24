@@ -32,4 +32,4 @@ ONNX · Praat · openSMILE · Whisper · lesion-symptom mapping (MRI / fMRI / DT
 
 ---
 
-📄 [Google Scholar](https://scholar.google.com/citations?hl=en&user=YhDXsfUAAAAJ) · ✉️ ahmadis@email.sc.edu
+📄 [Google Scholar](https://scholar.google.com/citations?hl=en&user=YhDXsfUAAAAJ) · 🆔 [ORCID](https://orcid.org/0009-0005-6961-0573) · ✉️ ahmadis@email.sc.edu
